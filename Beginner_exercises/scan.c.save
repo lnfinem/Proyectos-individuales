@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Enter two numbers: ");
+	scanf("%d%d", &i, &j);
+	printf("%d%d", i, j);
+return 0;
+}
